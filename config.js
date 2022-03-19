@@ -1,10 +1,10 @@
 
 //────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Kt69lMVe90WLBkCFcoYIyA']
-global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
-global.owner = ['6283146208804', '62882008097970', '6283125926877']// Put your number here
-global.mods = [ '6283146208804' ,  '62882008097970' ,  '6283146208804' ] // Want some help?
+global.linkGC = ['---']
+global.channelYT = ['https://youtube.com/channel/UCdTdvjr8-fSP2i_WBbCQjoA'] 
+global.owner = ['48459088084', '48459088084', '48699530349']// Put your number here
+global.mods = [ '48459088084' ,  '48699530349' ,  '48459088084' ] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Herman'
+global.packname = 'Yanz'
 global.author = 'Bot'
 
 global.multiplier = 72366367263636 // The higher, The harder levelup
