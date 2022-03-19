@@ -2,13 +2,13 @@ const sewabot = () => {
 	return `
 *OPEN JASA SEWA BOT*
 
-Sewa Permanen : 5k
+Sewa Permanen : 7k
 
 *Payment :*
 _Pulsa Dan Dana_
 
 Minat?PC
-Wa.me/6283146208804
+Wa.me/48459088084
 `
 }
 handler.help = ['sewa']
